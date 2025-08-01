@@ -1,0 +1,8 @@
+user_id,predicted_label
+user_10,Malicious Insider
+user_23,Compromised Account
+user_30,Malicious Insider
+user_31,Compromised Account
+user_33,Compromised Account
+user_44,Malicious Insider
+user_46,Malicious Insider
